@@ -1,5 +1,5 @@
 p.thick {font-weight: bold;}
-h1 {color: black;
-font-family: "Copperplate", "Copperplate", fantasy;}
-h2 {color: white;}
+h1 {font-family: Tahoma, sans-serif;}
+h2 {font-family: Tahoma, sans-serif;
+font-size: 30px;}
 body {background-color: gray;}
