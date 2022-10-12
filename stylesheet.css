@@ -1,5 +1,6 @@
 p.thick {font-weight: bold;}
 p.a { font-family: Arial, Helvetica, sans-serif;}
-h1 {color: white;}
+h1 {color: white;
+font-family: Arial, Helvetica, sans-serif;}
 h2 {color: red;}
 body {background-color: gray;}
