@@ -1,0 +1,14 @@
+p.normal {
+  font-weight: normal;
+  font-size: 9px;}
+
+p.light {
+  font-weight: lighter;
+  color: white;}
+
+p.thick {
+  font-weight: bold;
+  background-color: purple;}
+h2 {color: green;}
+h1 {color: blue}
+body {background-color: gray;}
