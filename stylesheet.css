@@ -5,4 +5,7 @@ font-size: 30px;}
 h3 {font-family: Courier New, monospace;
 font-size: 20px;}
 body {background-color: #FEF6DA;
-font-family: Verdana, sans-serif;}
+font-family: Verdana, sans-serif;
+border: solid;
+border-width: 6px;
+padding: 1rem;}
